@@ -9,6 +9,8 @@ image: assets/img/ogp.png # This image used for Open Graph more info https://ogp
 repo: https://github.com/cs161-staff/pedagogy # site repo [optional]
 mode: light # default theme "dark" | "light"
 
+destination: docs/
+
 # Profile settings
 author:
   name: CS 161 Course Staff
