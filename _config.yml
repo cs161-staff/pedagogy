@@ -25,8 +25,8 @@ author:
   avatar: /assets/img/evanbot.png # change with your own avatar
 
 # URL settings
-url: "http://pedagogy.cs161.org/" #
-baseurl:
+url: "https://cs161.github.io" #
+baseurl: /pedagogy
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:

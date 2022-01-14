@@ -1,1 +1,1 @@
-Sitemap: http://pedagogy.cs161.org//sitemap.xml
+Sitemap: https://cs161.github.io/pedagogy/sitemap.xml
