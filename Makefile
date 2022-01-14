@@ -6,3 +6,7 @@ serve:
 
 deploy:
 	echo "TODO"
+
+build:
+	bundle exec jekyll build
+
