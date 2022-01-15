@@ -55,9 +55,9 @@ The main problem is students really don't get how to self-sort into each type of
 
 Long-term work should focus on addressing the root causes of long OH queues.
 
-- Cause: **Project specs aren't sufficiently detailed about common mistakes**, so students flood OH with repetitive questions. Solution: Add more details in the spec about common mistakes and misconceptions.
-- Cause: **Students don't feel comfortable using available debugging tools**. Solution: Release additional course materials (e.g. videos, readings, guides, smaller lab assignments) to get students more familiar with the tools they should be using on their own.
-- Cause: **Staff (especially newer TAs and tutors) are inexperienced at finding common mistakes or debugging the project**. Solution: Make debugging guides for staff.
-- Cause: The project is really hard to debug for staff. As a concrete example, 61C's autograders have "comprehensive tests" that produce no meaningful output when they fail, which leaves students and staff confused as to where the problem is. Solution: Refactor projects so that pinpointing mistakes is easier.
+- **Cause**: Project specs aren't sufficiently detailed about common mistakes, so students flood OH with repetitive questions.<br>**Solution**: Add more details in the spec about common mistakes and misconceptions.
+- **Cause:** Students don't feel comfortable using available debugging tools.<br>**Solution:** Release additional course materials (e.g. videos, readings, guides, smaller lab assignments) to get students more familiar with the tools they should be using on their own.
+- **Cause:** Staff (especially newer TAs and tutors) are inexperienced at finding common mistakes or debugging the project.<br>**Solution:** Make debugging guides for staff.
+- **Cause:** The project is really hard to debug for staff. As a concrete example, 61C's autograders have "comprehensive tests" that produce no meaningful output when they fail, which leaves students and staff confused as to where the problem is.<br>**Solution:** Refactor projects so that pinpointing mistakes is easier.
 
 Improving the project experience for students is a much larger problem than managing long OH queues, so I'll save more discussion on this for a later post.
