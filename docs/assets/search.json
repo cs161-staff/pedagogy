@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Notes on Office Hour Queues",
+      "description" : "What to do when queues get long, and how to avoid long queues",
+      "tags"     : "office hours",
+      "url"      : "/pedagogy/notes-on-office-hour-queues/",
+      "date"     : "2022-01-14 00:00:00 -0800"
+    } ,
+  
+    {
       "title"    : "Creating an Inclusive Course Environment",
       "description" : "Tips, tricks, and best practices for creating an inclusive, welcoming course environment!",
       "tags"     : "general, culture",
