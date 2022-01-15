@@ -4,7 +4,6 @@ created: 2021-01-14T20:13:18.54
 modified: 2021-01-14T01:37:28.20
 tags: [office hours]
 description: What to do when queues get long, and how to avoid long queues
-image: /assets/img/creating-an-inclusive-course.png
 author:
     name: Peyrin Kao
 ---
