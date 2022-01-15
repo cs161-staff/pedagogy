@@ -21,17 +21,17 @@ In CS 161, we ask for feedback in two critical places: at the end of each homewo
 
 Here's the question we use to ask for feedback, and an example feedback submission we received from one of our students:
 
-> ![](attachments/feedback.png)
+> ![](/assets/posts/creating-an-inclusive-course/feedback.png)
 
 We have a script that scrapes this feedback from Gradescope and dumps it into a Google Doc, which we then review at our weekly staff meetings.
 
 Occasionally, concerns raised through feedback may be significant enough to warrant a standalone "response" post. Here's one that David Wagner posted in the Spring 2020 iteration of CS 161, back when I was a student:
 
-![](attachments/wagner.png)
+![](/assets/posts/creating-an-inclusive-course/wagner.png)
 
 These feedback channels are also a critical component to making students feel heard & building a community in which people feel included, aren't afraid to ask questions, and share their frustrations constructively (as opposed to [destructively](https://www.reddit.com/r/berkeley/comments/rbe23e/data_100_final_project_is_straight_bullshit/)). Here's an example of feedback (and response) from one of our **"How did the midterm go?"** posts earlier this semester.
 
-![](attachments/exam-feedback.png)
+![](/assets/posts/creating-an-inclusive-course/exam-feedback.png)
 
 Aside: for the particular issue above, we course-corrected for the final by dedicating more time/care towards exam pre-testing and having more TA's in the clarifications room.
 
@@ -43,13 +43,13 @@ Aside: for the particular issue above, we course-corrected for the final by dedi
 
 Not everyone learns the same way -- so if you're able to provide several different methods of digesting course content, then do so.
 
-![](attachments/textbook.png)
+![](/assets/posts/creating-an-inclusive-course/textbook.png)
 
 [CS 170](https://cs170.org) does this really, really well (they offer lecture, reading, section/section walkthrough, mini-lecture/conceptual walkthroughs, and assignments/assignment walkthroughs).
 
 Also, collect data on what works for students - and put TA hours toward building out the things that work. We polled students on how helpful they found the textbook in SU21 and FA21 (while we were actively developing it), and we saw an increase of nearly 20% of students who rated the helpfulness of the textbook a 4/4.
 
-> <img title="" src="attachments/notes-useful.png" alt="" width="517">
+> <img title="" src="/assets/posts/creating-an-inclusive-course/notes-useful.png" alt="" width="517">
 
 **People generally like video walkthroughs of things.** Our video walkthrough for [Project 1](https://www.youtube.com/watch?v=psxuAU9PycE) (1300 views) and [Project 2](https://www.youtube.com/watch?v=HVw4z_RVH20) (900 views) were among our most-viewed videos for the entire semester. We have a hunch that these were particularly helpful to students who were conceptually behind and/or felt lost -- considering we had only 600 enrolled students, it seems many students referenced these videos several times.
 
@@ -74,15 +74,15 @@ One strategy: when planning your course schedule at the beginning of the semeste
 
 **Give people updates on what's happening on Piazza, instead of leaving posts unresolved for a long period of time.** Try to make sure every single post & followup has a response. One thing that we use that I'd personally love to see in other classes: if you're blocked on immediately resolving a post or don't know what the answer is, then respond with a quick "Investigating" or "I've pinged XYZ to look into this" so students don't think you're ignoring posts. I think this might be especially relevant for megathreads & debugging-related posts that may go unresolved for a longer amount of time.
 
-> ![](attachments/piazza-updates.png)
+> ![](/assets/posts/creating-an-inclusive-course/piazza-updates.png)
 
 **Instead of flat-out rejecting student demands, compromise wherever possible.** Here's an example: we release grade reports three times throughout the semester - after the midterm, before the final, and after the final. In our first round of grade reports, we received feedback (through our HW feedback channel) that percentiles were causing a stressful, competitive environment, where people were forced to compare themselves to their peers when looking at their grade reports. As such, we took these percentiles out in the second round. This immediately received pushback on Piazza -- to which, we re-discussed and released this:
 
-> ![](attachments/compromise.png)
+> ![](/assets/posts/creating-an-inclusive-course/compromise.png)
 
 **Be transparent.** Earlier this semester, we released a buggy autograder, with some students receiving lower-than-intended scores. When we re-released grades a few days later, we posted this note along with our update.
 
-<p align="center"><img src="attachments/transparent.png" alt="drawing" width="100%"/></p>
+<p align="center"><img src="/assets/posts/creating-an-inclusive-course/transparent.png" alt="drawing" width="100%"/></p>
 
 ## Website
 
@@ -121,11 +121,11 @@ During the early days of Zoom proctoring, proctoring policies sometimes exceeded
 
 **When discussing regrades, student-facing tone matters - a lot.** Use neutral/positive phrases like "definitely open to hearing second opinions about this", or "I don't think we can give points for [X] here", instead of negative/combative phrases. Regrade requests shouldn't be an "us-vs-them" battle to the death; listen to students, try to hear their perspective, and share your own perspective until you're able to reach a satisfactory conclusion.
 
-> ![](attachments/regrades.png)
+> ![](/assets/posts/creating-an-inclusive-course/regrades.png)
 
-**Add a course bot!** A few of our TA's have been developing EvanBot (along with a pretty integrated course storyline) over the course of the past few semesters. Here are a few of Bot's capabilities: [making sensitive remarks about grading](attachments/bot-1.png), [responding to logistics requests in humorous ways](attachments/bot-2.png), and [sliding in a sly comment or two.](attachments/bot-3.png)
+**Add a course bot!** A few of our TA's have been developing EvanBot (along with a pretty integrated course storyline) over the course of the past few semesters. Here are a few of Bot's capabilities: [making sensitive remarks about grading](/assets/posts/creating-an-inclusive-course/bot-1.png), [responding to logistics requests in humorous ways](/assets/posts/creating-an-inclusive-course/bot-2.png), and [sliding in a sly comment or two.](/assets/posts/creating-an-inclusive-course/bot-3.png)
 
-> ![](attachments/bot-1.png)
+> ![](/assets/posts/creating-an-inclusive-course/bot-1.png)
 
 ## Internal
 
