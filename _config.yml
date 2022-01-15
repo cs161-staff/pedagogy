@@ -13,10 +13,10 @@ destination: docs/
 
 # Profile settings
 author:
-  name: CS 161 Course Staff
+  name: Pedagogy
   bio: 
-    CS 161 is UC Berkeley's undergraduate computer science course. This blog features posts from CS 161 TA's, featuring
-    guest posts from TA's from other computer science courses on campus.
+    This blog features notes, reflections, and articles written by EECS uGSI's, GSI's, and professors at UC Berkeley.
+    It's jointly hosted by CS 161 (Computer Security) and 61C (Computer Architecture).
   username: cs161 # general username
   github: cs161-staff # github username
   # twitter: twitter_username # twitter username
