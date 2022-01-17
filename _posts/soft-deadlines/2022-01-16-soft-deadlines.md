@@ -1,5 +1,5 @@
 ---
-title: Soft Deadlines: Slip Days and Extensions
+title: "Soft Deadlines: Slip Days and Extensions"
 tags: [student support]
 description: Why we need soft deadlines
 author:
