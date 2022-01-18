@@ -33,6 +33,9 @@ Unlike TAs, tutors and readers are paid hourly. The relevant rows on the pay rat
 
 ## Summer Semesters
 
-Summer semesters run twice as fast as spring/fall semesters, so the appointments for TAs are usually 20h/week (10h/week doubled). I don't think there's fee remission for summer semesters, though I've never taken summer classes before so I can't say definitively.
+Summer semesters run twice as fast as spring/fall semesters, so the appointments for TAs are usually 20h/week (10h/week doubled). TAs in summer semesters don't get fee remission.
 
 Summer instructors are paid at 40h/week, and there's usually an extra one-time stipend (around $2,000) so that the salary matches the lecturer's salary (or so I'm told).
+
+
+*Post was updated on January 17, 2022 to clarify that TAs in summer semesters don't get fee remission.*
