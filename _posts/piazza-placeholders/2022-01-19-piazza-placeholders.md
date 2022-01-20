@@ -28,4 +28,6 @@ Below the project posts, we'll have posts for weekly discussions. Discussions do
 
 Finally, we'll have a Piazza private post template and a Resources Central Post linking to every relevant thread at the very bottom of the pinned posts. These can just be made once at the start of the semester and left at the very bottom.
 
+We discussed having lecture threads in the pinned posts too, but we ultimately decided against this. Lecture threads would probably be near the bottom because they aren't an actionable assignment (like discussions), so we would probably have to make them all at the beginning of the semester and have them sink to the bottom when they get unpinned. We have two lectures every week, so that means that a Tuesday lecture thread would sink to the bottom on Thursday. People usually fall behind on lectures too, so leaving pinned threads might not be useful for most students. Instead, we'll make lecture threads after every lecture and link them in the resources post, but we won't pin them. Although the lecture thread won't be in the pinned posts, it'll still be near the top of the normal posts, so that should be enough for visibility.
+
 It's funny to think that all this creative hacking can be avoided if Piazza implemented one simple feature...
