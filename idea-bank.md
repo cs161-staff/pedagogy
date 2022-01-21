@@ -4,6 +4,7 @@ Feel free to steal any of these.
 
 - Slip days vs. slip hours
 - [Shomil] How to build an extension backend
+- Slip days do not replace extensions
 
 ## Data Analysis
 
@@ -46,6 +47,7 @@ Feel free to steal any of these.
 - Professors don't like teaching web classes with pre-recorded lectures
 - [Peyrin] Text screenshots are bad
 - [Peyrin] Content warnings on posts
+- Clobbering?
 
 ## CS ed community
 
