@@ -31,10 +31,13 @@ Feel free to steal any of these.
 - Course chat platforms: Slack/Discord/other?
 - Documentation: Github Wiki/Google Drive/other?
 - Piazza vs. Ed
+- In-house software, pros and cons (Caroline: Nicholas has a lot of thoughts)
 
 ## Pedagogy
 
 - [Caroline] What skills do we expect from students? (meta-skills, how to Google, debugging) (series with 61ABC?)
+- [Caroline] Communication across courses: dependencies, skills, topics
+- [Caroline] Exam writing, what's the point?
 
 ## Opinion pieces
 
@@ -52,3 +55,10 @@ Feel free to steal any of these.
 
 - [Zoe] DSP intro slides
 - [Vron] Flowchart for student support resources
+
+## Staffing/Staff Management
+
+- [Caroline] Documentation; staff resources
+- [Caroline?] Separation of personal feelings/issues and work
+- [Caroline?] Task delegation, micromanagement vs macromanagement, hierarchy of staff
+- [Caroline] Creating an inclusive course (staff) environment
