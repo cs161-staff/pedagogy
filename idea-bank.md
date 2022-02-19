@@ -18,6 +18,10 @@ Feel free to steal any of these.
 - Website design (the one that comes to mind is adding semester on top of website, but I'm sure there are others)
 - Make assignments due on consistent dates
 - Scalability and stable classes (e.g. one professor = content doesn't change dramatically each semester)
+- Tips for running effective hybrid office hours (suggested by Shomil, one post by Peyrin already)
+- Tips for running effective hybrid discussions (in rooms with and without a camera)
+- Tips for running hybrid lectures (Nicholas and/or Caroline?)
+- [Caroline/Peyrin/Fuzail] Textbook/notes writing and editing
 
 ## How-to guides
 
@@ -57,6 +61,7 @@ Feel free to steal any of these.
 
 - [Zoe] DSP intro slides
 - [Vron] Flowchart for student support resources
+- There seem to be Google Docs scattered everywhere with resources that we should centralize on here (or somewhere that's not Google Docs)
 
 ## Staffing/Staff Management
 
@@ -64,3 +69,7 @@ Feel free to steal any of these.
 - [Caroline?] Separation of personal feelings/issues and work
 - [Caroline?] Task delegation, micromanagement vs macromanagement, hierarchy of staff
 - [Caroline] Creating an inclusive course (staff) environment
+
+## Exams
+
+- Clarifications
