@@ -83,7 +83,7 @@ See [this post](/instructor-student-support-intro) for an introduction aimed at 
 - Listen. A student's own words are often more clear than the DSP letter.
 - Students are experts in their own experience - trust them to have the best understanding of their time and ability to complete assignments.
 - Do not judge or discourage students who are behind on course material. Shit Happens.
-- Please check out [these recommendations for one-on-one meetings](/student-support-meetings-guide) if you have a one-on-one meeting with a student:
+- Please check out [these recommendations for one-on-one meetings](/student-support-meetings-guidance) if you have a one-on-one meeting with a student:
   - Specific steps for Before, During, and After the meeting
   - General helpful tips for student interactions
 
