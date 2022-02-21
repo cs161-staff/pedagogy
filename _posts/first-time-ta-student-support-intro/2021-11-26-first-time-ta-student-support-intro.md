@@ -30,7 +30,9 @@ See [this post](/instructor-student-support-intro) for an introduction aimed at 
 ## Mindset
 
 - Not all students learn the same way.
-- People experience disabilities due to barriers created by society, not by their impairment or difference. Learn more about the [social model of disability](https://www.scope.org.uk/about-us/social-model-of-disability/).
+- People experience disabilities due to barriers created by society, not by their impairment or difference. 
+  - Consider glasses. They are an assistive device used by people whose vision is impaired. Are people who need glasses disabled? Why or why not?
+  - Learn more about the [social model of disability](https://www.scope.org.uk/about-us/social-model-of-disability/).
 - Presenting information clearly and in multiple formats is vital for all students in your course.
 - As with all groups of students, some DSP students are among the top performers in Computer Science. Other DSP students struggle a lot. A student's DSP status predicts nothing about their performance in the course.
 
