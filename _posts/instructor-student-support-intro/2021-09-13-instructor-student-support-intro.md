@@ -30,7 +30,9 @@ See [this post](/first-time-ta-student-support-intro) for an introduction aimed 
 ## Centralize
 
 - Route communications about DSP and extenuating circumstances through limited members of course staff (preferably 1 DSP TA).
-  - If one person is not enough, split roster.
+  - If one person is not enough, split the workload clearly. Some options:
+    - Split the roster alphabetically by last name. This system is used by the ESS advisors
+    - Split the workload by type, eg extensions v student meetings. This system is used in 61B and 61C, but requires robust communication between student support staff when handing off students
 - Create one form for all extension and accommodation requests.
 - Keep student documentation and personal information separate from course materials. Only the instructor, head TAs, DSP TA, and the grading TA need access to this information. 
 

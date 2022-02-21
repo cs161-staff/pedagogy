@@ -30,7 +30,9 @@ See [this post](/instructor-student-support-intro) for an introduction aimed at 
 ## Mindset
 
 - Not all students learn the same way.
-- People experience disabilities due to barriers created by society, not by their impairment or difference. Learn more about the [social model of disability](https://www.scope.org.uk/about-us/social-model-of-disability/).
+- People experience disabilities due to barriers created by society, not by their impairment or difference. 
+  - Consider glasses. They are an assistive device used by people whose vision is impaired. Are people who need glasses disabled? Why or why not?
+  - Learn more about the [social model of disability](https://www.scope.org.uk/about-us/social-model-of-disability/).
 - Presenting information clearly and in multiple formats is vital for all students in your course.
 - As with all groups of students, some DSP students are among the top performers in Computer Science. Other DSP students struggle a lot. A student's DSP status predicts nothing about their performance in the course.
 
@@ -81,7 +83,7 @@ See [this post](/instructor-student-support-intro) for an introduction aimed at 
 - Listen. A student's own words are often more clear than the DSP letter.
 - Students are experts in their own experience - trust them to have the best understanding of their time and ability to complete assignments.
 - Do not judge or discourage students who are behind on course material. Shit Happens.
-- Please check out [these recommendations for one-on-one meetings](/student-support-meetings-guide) if you have a one-on-one meeting with a student:
+- Please check out [these recommendations for one-on-one meetings](/student-support-meetings-guidance) if you have a one-on-one meeting with a student:
   - Specific steps for Before, During, and After the meeting
   - General helpful tips for student interactions
 
