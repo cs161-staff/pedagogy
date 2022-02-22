@@ -56,5 +56,5 @@ The UC Berkeley EECS department offers some administrative services through its 
 
 ## Resources
 
-- [Proposed policy](https://docs.google.com/document/d/18NBHwRaClsXc17mdzVd2x-kZkFldyuLlnd01lfUQxrg)
+- [Proposed DSP / extenuating circumstances policy](https://docs.google.com/document/d/18NBHwRaClsXc17mdzVd2x-kZkFldyuLlnd01lfUQxrg)
 - DSP crossroads slack (educators working to improve DSP experiences at Cal): [email for access]
