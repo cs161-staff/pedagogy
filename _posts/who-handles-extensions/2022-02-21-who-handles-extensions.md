@@ -10,7 +10,7 @@ author:
 
 If you're not sold on extensions, you should probably come back to this post laster. Check out our [introduction to soft deadlines and extensions](https://pedagogy.cs161.org/soft-deadlines/) and [student support intro for instructors](https://pedagogy.cs161.org/instructor-student-support-intro/). 
 
-Tl;dr, automated extensions are a low-effort, high-reward way to improve equity and empathy in your course.
+Tl;dr, automated extensions are a low-effort, high-reward way to improve equity, empathy and student success in your course.
 
 ## Who
 
