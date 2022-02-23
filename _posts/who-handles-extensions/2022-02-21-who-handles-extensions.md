@@ -8,7 +8,7 @@ author:
 
 ## Why, How
 
-If you're not sold on extensions, you should probably come back to this post laster. Check out our [introduction to soft deadlines and extensions](https://pedagogy.cs161.org/soft-deadlines/) and [student stupport intro for instructors](https://pedagogy.cs161.org/instructor-student-support-intro/). 
+If you're not sold on extensions, you should probably come back to this post laster. Check out our [introduction to soft deadlines and extensions](https://pedagogy.cs161.org/soft-deadlines/) and [student support intro for instructors](https://pedagogy.cs161.org/instructor-student-support-intro/). 
 
 Tl;dr, automated extensions are a low-effort, high-reward way to improve equity and empathy in your course.
 
@@ -45,10 +45,10 @@ often gives us much more useful information about their mindset.
 
 ## A word of warning
 
-The decisions your course makes regarding extensions have a notable impact on your course climate. When requesting an extension, students in vulerable situations are showing trust, and implicitly taking responsibility for finishing their assignments on time. By approving it, we are acknowledging that they are adults, and that we trust their judgement of their own abilities and situation. Even if for some reason the student is not able to finish the work or does not pass the course, the mutual respect remains. Students generally don't put responsibility for the situation on the course, and instead see us as "on their side".
+The decisions your course makes regarding extensions have a notable impact on your course climate. When requesting an extension, students in vulnerable situations are showing trust and implicitly taking responsibility for finishing their assignments on time. By approving it, we are acknowledging that they are adults, and that we trust their judgement of their own abilities and situation. Even if for some reason the student is not able to finish the work or does not pass the course, the mutual respect remains. Students generally don't put responsibility for the situation on the course, and instead see us as "on their side".
 
 
-When we turn down extensions, we are passing a judgement on the student or their situation. At times this can be explicit, like with paternalistic statements about "falling behind". It can be tempting to automate or outsource these rejections, so we can run our course without considering student wellness, or having to account for extensions or slip days when releasing answers. However, these still don't change the impacts these have on your course climate. When you don't design your course with empathy in mind, students will either find fault with the course staff, feeling unsupported and unheard, or worse - with themselves. For students in marginalized groups, these rejections can re-enforce false beliefs that we are the problem. "Why can't I make this deadline when everyone else can?" It may feel like another assertion that we don't belong in the major, the department, or even the school.
+When we turn down extensions, we are passing a judgement on the student or their situation. At times this can be explicit, like with paternalistic statements about "falling behind". It can be tempting to automate or outsource these rejections, so we can run our course without considering student wellness, or having to account for extensions or slip days when releasing answers. However, these still don't change the impacts these have on your course climate. When you don't design your course with empathy in mind, students will either find fault with the course staff, feeling unsupported and unheard, or worse - with themselves. For students in marginalized groups, these rejections can re-enforce false beliefs that the student is the problem. "Why can't I make this deadline when everyone else can?" It may feel like another assertion that these students don't belong in the major, the department, or even the school.
 
 Out-sourcing extensions puts one of your primary impacts on student wellness outside of your control. However you handle extensions, make sure you are cc'd on every email that is sent to students regarding them. Read over them, and make sure they represent your goals for your course.
 
