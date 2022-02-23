@@ -35,6 +35,7 @@ Some important things to look out for:
 - Incorporates the growth mindset into their teaching. [Article](https://fs.blog/carol-dweck-mindset/), [Video](https://www.youtube.com/watch?v=_X0mgOOSpLU)
 - Tangible experiences with [how discrimination shows up in the classroom](https://www.cacollegepathways.org/wp-content/uploads/2019/11/B9-LJ-Feinics-Beyond-the-Bias-Lens.pdf)
 - Assumes the best of students, based on a solid understanding of intersectionality. [Article](https://www.learningforjustice.org/magazine/summer-2016/teaching-at-the-intersections), [Video](https://www.youtube.com/watch?v=w6dnj2IyYjE).
+- Comes from a trauma-informed perspective
 
 While it's often easiest to choose a TA whose work you know, and has already demonstrated these values through their actions, we also want to evaluate new staff members or those without prior student support experience. I've found some of the most useful information comes from open-ended questions, or specific hypothetical questions. For example, when asked "Do you believe all students have the potential to succeed", many people will respond yes. We don't get much insight into how deeply they have inspected and addressed their internal biases, or how they would apply their values of equity to students. Meanwhile, their answers to questions like
 - How will you contribute to our mission to support diverse students with a welcoming course climate? 
@@ -45,6 +46,7 @@ often gives us much more useful information about their mindset.
 ## A word of warning
 
 The decisions your course makes regarding extensions have a notable impact on your course climate. When requesting an extension, students in vulerable situations are showing trust, and implicitly taking responsibility for finishing their assignments on time. By approving it, we are acknowledging that they are adults, and that we trust their judgement of their own abilities and situation. Even if for some reason the student is not able to finish the work or does not pass the course, the mutual respect remains. Students generally don't put responsibility for the situation on the course, and instead see us as "on their side".
+
 
 When we turn down extensions, we are passing a judgement on the student or their situation. At times this can be explicit, like with paternalistic statements about "falling behind". It can be tempting to automate or outsource these rejections, so we can run our course without considering student wellness, or having to account for extensions or slip days when releasing answers. However, these still don't change the impacts these have on your course climate. When you don't design your course with empathy in mind, students will either find fault with the course staff, feeling unsupported and unheard, or worse - with themselves. For students in marginalized groups, these rejections can re-enforce false beliefs that we are the problem. "Why can't I make this deadline when everyone else can?" It may feel like another assertion that we don't belong in the major, the department, or even the school.
 
