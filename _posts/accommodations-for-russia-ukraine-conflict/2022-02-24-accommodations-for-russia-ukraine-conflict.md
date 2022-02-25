@@ -6,7 +6,7 @@ author:
     name: Caroline Liu
 ---
 
-> This is the text of a post we released to students on Piazza affirming our commitment to support students in the middle of the escalating crisis in Ukraine.
+> This is the text of a post we released to students on Piazza affirming our commitment to support students in the middle of the escalating crisis in Ukraine. It's important to make sure that students feel supported during times of geopolitical crises. One way of doing this is to reassure students that their current emotions during such times are valid and they have the full support of the course staff to ensure that their mental and physical health are taken care of first before attending to course matter.
 
 As some of you may be aware, as of earlier this morning, the Russia and Ukraine conflict has escalated. While this may not affect all of you, some students may be strongly affected, either directly or by having family or personal connections to the areas at war.
 
