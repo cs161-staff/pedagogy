@@ -8,7 +8,9 @@ author:
 
 > Currently in draft form.
 
-{% mermaid %}
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+
+<div class="mermaid">
 graph TD;
     A(<b>Academic Distress</b><br>Sudden Decline in Work and Grades<br>Repeated Absences<br>Disorganized Performance<br>Multiple Extension Requests<br>Bizarre content in writings or presentations);
     A--> B{Check In};
@@ -20,4 +22,4 @@ graph TD;
     H(<b>Share study materials in applicable formats</b><br>If you don't have something on hand, follow up <br>with the student later. Reach out to campus orgs and <br>course staff about available study matierals);
     C -->|Two| E[iPhone];
     C -->|Three| F[fa:fa-car Car];
-{% endmermaid %}
+</div>
