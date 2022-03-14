@@ -18,15 +18,17 @@ Below are some examples of more intense cases you may see while managing student
 
 Handling these issues in a thoughtful and meaningful way is one of the most impactful parts of leading a course - even a few words of support can make a *huge* difference. 
 
-# Request 1
+---
 
-this post is to request an extension on hw 2.  i have been dealing with the death of my aunt, and it's honestly been affecting me to a much larger extent than i previously thought it would. i have reached out to start counseling.
+## Request
 
-## Comments on request
+*this post is to request an extension on hw 2.  i have been dealing with the death of my aunt, and it's honestly been affecting me to a much larger extent than i previously thought it would. i have reached out to start counseling.*
+
+### Comments
 
 This is a case where the student needs time to grieve and sort out affairs, and you should not be adding any workload on top of that. Our philosophy when drafting responses to this type of request is to not ask for any sort of immediate response. For example, “when do you think you can finish this project?” is putting the burden on the student to impose a deadline on themselves to finish up with their own circumstances. A better alternative is something like “when you’re ready, let us know and we can work out a schedule for finishing the project,” because this gives the student space to focus on more important things before following up with us.
 
-## Response 1
+### Response
 
 I'm so sorry to hear that. Please don't worry about the class for now and take care of yourself and your family first. We'll always be here to help you catch up whenever you're ready.
 
@@ -35,15 +37,15 @@ If you can't take the midterm, we can let you replace your midterm score with yo
 Best wishes for you and your family,<br>
 Peyrin
 
+---
 
-# Request 2
+## Request
 
-I am having a hard time, and need help. Since last Wednesday (3/9/22), I have been working to keep my friend/roommate safe. He had a suicide attempt at the end of February, and was released from the hospital last Monday (3/7/22). His family is not available, and the hospital made things worse, so there aren’t any options right now other than me. My other roommate has been helping me make calls to try and get him started with therapy, but his health insurance said they wouldn’t cover it so until appeal he can’t be alone right now.
+*I am having a hard time, and need help. Since last Wednesday (3/9/22), I have been working to keep my friend/roommate safe. He had a suicide attempt at the end of February, and was released from the hospital last Monday (3/7/22). His family is not available, and the hospital made things worse, so there aren’t any options right now other than me. My other roommate has been helping me make calls to try and get him started with therapy, but his health insurance said they wouldn’t cover it so until appeal he can’t be alone right now.**
 
-I have attached his release forms from the hospital, and can provide screenshots of my texts with him and his family. I’m taking [other courses], and have provided them with the same documentation. [one class] has been very understanding and gave me more time, but [the other class] has not been and I am not able to keep up with the coursework on top of taking care of my roommate. I haven’t checked the assignments this week, and I know your course has already given me an extension on previous assignments, and I know I am asking too much but I don’t know what to do. I have been trying to watch lecture but I can’t focus, There are too many calls left to make, I am really overwhelmed and have to finish this first.
+*I have attached his release forms from the hospital, and can provide screenshots of my texts with him and his family. I’m taking [other courses], and have provided them with the same documentation. [one class] has been very understanding and gave me more time, but [the other class] has not been and I am not able to keep up with the coursework on top of taking care of my roommate. I haven’t checked the assignments this week, and I know your course has already given me an extension on previous assignments, and I know I am asking too much but I don’t know what to do. I have been trying to watch lecture but I can’t focus, There are too many calls left to make, I am really overwhelmed and have to finish this first.*
 
-
-## Response 2
+### Response
 
 Hi!
  
@@ -63,17 +65,18 @@ Tuesdays **2–4 p.m.** at (510) 643-7850<br>
 Wednesdays **1:30–3:30 p.m.** at (415) 484-3480<br>
 Thursdays **10 a.m.–noon** at (510) 642-6722
 
+---
 
-# Request 3
+## Request
 
-Had to go home for an emergency, my dad has been struggling with doctor appointments, don’t have time between cleaning home, managing bills and extended family on top of school. I didn’t finish last week’s assignments, and would like to know if there is any way I could get credit for completing some portion of them in the future.
+*Had to go home for an emergency, my dad has been struggling with doctor appointments, don’t have time between cleaning home, managing bills and extended family on top of school. I didn’t finish last week’s assignments, and would like to know if there is any way I could get credit for completing some portion of them in the future.*
 
-## Comments on request
+### Comments
 
 Students will often refrain from expressing this in too much detail and will instead simply say something like "I am experiencing family struggles", translated from "I have been dealing with a family emergency that has distracted me from my academics." or "My parent(s) aren't feeling great and I need to spend more time taking care of them". Students will also express "familial obligations", "unexpected family matters", or "family emergencies", all of which can be reduced down to a similar concept. Even if a student doesn’t give specifics, it doesn’t mean that they aren’t facing serious difficulties, and you should respect their confidentiality and treat the request the same as if they had provided all the relevant details.
 
 
-## Response 3
+### Response
 
 Hello!
 
@@ -86,6 +89,8 @@ If it’s helpful, I’m also available to meet and discuss additional adjustmen
 
 Best wishes for you and your dad,<br>
 Fuzail
+
+---
 
 > Fuzail Shakir, Peyrin Kao, Vron Vance, and Shomil Jain contributed to this post.
 
