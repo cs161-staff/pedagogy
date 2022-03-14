@@ -60,7 +60,7 @@ University Health Services (UHS) offers immediate Mental Health Crisis Support a
  
 EECS CAPS drop-ins:<br>
 Tuesdays **2–4 p.m.** at (510) 643-7850<br>
-Wednesdays **1:30-3:30 p.m.** at (415) 484-3480<br>
+Wednesdays **1:30–3:30 p.m.** at (415) 484-3480<br>
 Thursdays **10 a.m.–noon** at (510) 642-6722
 
 
@@ -80,7 +80,7 @@ Hello!
 Please prioritize taking care of yourself and your family; we can always adjust the deadlines in our class as necessary once you’re more ready to focus on the class.
 
 There is a lot on your plate, if you haven’t already, I’d recommend reaching out to the basic needs center on campus for resources while supporting your family:
- https://basicneeds.berkeley.edu/ If you’re unsure how to proceed, [they have a form you can submit to get help navigating their programs](https://docs.google.com/forms/d/e/1FAIpQLSclv8FAqXeub2JUwY-f-4nr55X9o5qePZ0mhM22D_fxCOmdIA/viewform).
+ [https://basicneeds.berkeley.edu/](https://basicneeds.berkeley.edu/). If you’re unsure how to proceed, [they have a form you can submit to get help navigating their programs](https://docs.google.com/forms/d/e/1FAIpQLSclv8FAqXeub2JUwY-f-4nr55X9o5qePZ0mhM22D_fxCOmdIA/viewform).
 
 If it’s helpful, I’m also available to meet and discuss additional adjustments we can make to better support you through this time. 
 
