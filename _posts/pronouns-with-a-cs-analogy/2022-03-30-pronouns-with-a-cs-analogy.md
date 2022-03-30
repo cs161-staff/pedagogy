@@ -77,6 +77,7 @@ A person’s pronouns, just like their name, refer to what they would like to be
 Lastly, be mindful of the distinction between asking someone what they would like to be called and what they are. To avoid making this mistake in your classroom, you must first internalize this distinction. When asking students for their names and pronouns, you are not categorizing them into genders; instead, you are simply asking them what to call them. For example, consider the following introductions:
 - “Hi, my name is Esther. I use she/her pronouns. What’s your name?”
 - “Hi, my name is Christopher. I am white. What are you?”
+
 It’s a subtle difference, but what makes the latter so uncomfortable is that it asks the recipient to categorize themselves, rather than simply give their appellation.
 
 Normalizing pronouns in your classroom is as simple as using the new API. When you introduce yourself, include your pronouns. When asking for a student’s name, also ask for their pronouns. The more you practice this process, the more natural it will feel to you, and subsequently, the more comfortable your students will feel sharing their pronouns.
