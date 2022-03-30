@@ -82,7 +82,7 @@ It’s a subtle difference, but what makes the latter so uncomfortable is that i
 
 Normalizing pronouns in your classroom is as simple as using the new API. When you introduce yourself, include your pronouns. When asking for a student’s name, also ask for their pronouns. The more you practice this process, the more natural it will feel to you, and subsequently, the more comfortable your students will feel sharing their pronouns.
 
-##Third-person singular “they”
+## Third-person singular “they”
 
 Another thing you will want to practice is using “they” to refer to a singular student, either when you do not know their pronouns, or when you want to talk about them without revealing their name. For example, in a staff meeting, you might say, “One of my students had a question I couldn’t answer today. Here’s what they asked: …”. Not only is this faster than “he or she”, it is more inclusive (literally, since the set of all pronouns is not included in “he or she”).
 
