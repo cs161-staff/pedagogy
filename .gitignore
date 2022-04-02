@@ -1,10 +1,6 @@
-*.log
-.DS_Store
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
+.jekyll-cache
 .jekyll-metadata
-_drafts
-klise-*.gem
-Gemfile.lock
-
-docs/
+vendor
+.DS_Store

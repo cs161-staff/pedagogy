@@ -9,18 +9,16 @@ image: assets/img/ogp.png # This image used for Open Graph more info https://ogp
 repo: https://github.com/cs161-staff/pedagogy # site repo [optional]
 mode: light # default theme "dark" | "light"
 
-destination: docs/
-
 # Profile settings
 author:
   name: Pedagogy
-  bio: 
+  bio: >- # tell to the world
     This blog features notes, reflections, and articles written by EECS uGSI's, GSI's, and professors at UC Berkeley.
     It's jointly hosted by CS 161 (Computer Security) and 61C (Computer Architecture).
   username: cs161 # general username
   github: cs161-staff # github username
-  # twitter: twitter_username # twitter username
-  # facebook: facebook_username # facebook username
+  twitter: # twitter username
+  facebook: # facebook username
   email: cs161-staff@berkeley.edu # email adress
   avatar: /assets/img/evanbot.png # change with your own avatar
 
@@ -50,45 +48,13 @@ defaults:
       layout: post
       comments: false
 
-# Jekyll Compose default front matter
-jekyll_compose:
-  post_default_front_matter:
-    modified:
-    tags: []
-    description:
-  draft_default_front_matter:
-    modified:
-    tags: []
-    description:
-
 # Homepage limit posts
 number_of_posts: 100
 
 # Build settings
-# theme: klise
-sass:
-  style: compressed
-
-include:
-  - _redirects
-  - .htaccess
-
-exclude:
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - CHANGELOG.md
-  - README.md
-  - node_modules
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - lighthouse.png
-  - klise-*.gem
-  - klise.gemspec
+remote_theme: cs161-staff/jekyll-klise@v1.1.0
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-postfiles
