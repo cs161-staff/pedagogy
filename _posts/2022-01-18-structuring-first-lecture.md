@@ -4,6 +4,7 @@ tags: [content]
 description: Presenting course logistics in an organized way
 author:
     name: Peyrin Kao
+redirect_from: /structuring-first-lecture/
 ---
 
 Today's the first lecture for both classes I'm involved in. Students came in with a lot of logistics questions, and they were often really disorganized, so it got me thinking about how to properly organize all the logistics information people need to know into a first lecture. This post covers the reasoning behind how we structured the logistics slides of CS 161's first lecture. Feel free to use it as a guide when structuring your own first lectures.

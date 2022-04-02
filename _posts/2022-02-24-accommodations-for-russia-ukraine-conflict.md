@@ -4,6 +4,7 @@ tags: [student support]
 description: Piazza post affirming student support in times of crisis
 author:
     name: Caroline Liu
+redirect_from: /accommodations-for-russia-ukraine-conflict/
 ---
 
 > This is the text of a post we released to students on Piazza affirming our commitment to support students in the middle of the escalating crisis in Ukraine. It's important to make sure that students feel supported during times of geopolitical crises. One way of doing this is to reassure students that their current emotions during such times are valid and they have the full support of the course staff to ensure that their mental and physical health are taken care of first before attending to course matter.

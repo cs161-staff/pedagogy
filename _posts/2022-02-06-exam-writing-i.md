@@ -4,6 +4,7 @@ tags: [exams]
 description: Thought process behind writing an exam question
 author:
     name: Peyrin Kao
+redirect_from: /exam-writing-i/
 ---
 
 Here's the first of hopefully a longer series of posts about writing solid exam questions. I'll be focusing on CS 161-style questions in this guide, but the ideas should be applicable to other topics as well!

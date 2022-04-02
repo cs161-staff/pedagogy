@@ -4,6 +4,7 @@ tags: [copyright, dmca, git, chegg, coursehero]
 description: How to have your solutions removed from the internet
 author:
     name: Zephyr Barkan
+redirect_from: /notes-on-copyright/
 ---
 
 Our course content does not hold the same weight and meaning when the solutions are publicly available on the internet. It is cheaper to put resources into DMCA take-downs rather than to hire the required staff to rewrite, debug, and test a new suite of assignments every semester.

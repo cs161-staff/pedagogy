@@ -4,6 +4,7 @@ tags: [student support]
 description: Transcribed slides for first-time TAs
 author:
     name: Vron Vance
+redirect_from: /first-time-ta-student-support-intro/
 ---
 
 > This is a text transcript of a [slideshow](https://docs.google.com/presentation/d/1pyOYHokj8knUWBcZfa3eEbhc20oK41DYT_3-soAyyzE) used to introduce first-time TAs to student support and the Disabled Students' Program (DSP) at Berkeley. Transcribed/lightly edited for readability by Peyrin.

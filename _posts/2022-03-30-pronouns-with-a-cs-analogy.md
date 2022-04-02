@@ -4,6 +4,7 @@ tags: [classroom climate, pronouns, cs]
 description: Explaining pronouns with a CS analogy
 author:
     name: Victor Huang
+redirect_from: /pronouns-with-a-cs-analogy/
 ---
 
 Let’s explain pronouns with a CS analogy. We traditionally think of a person as follows:

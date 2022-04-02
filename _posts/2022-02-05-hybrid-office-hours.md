@@ -4,6 +4,7 @@ tags: [content]
 description: Supporting in-person and remote students simultaneously
 author:
     name: Peyrin Kao
+redirect_from: /hybrid-office-hours/
 ---
 
 I got a request to do a writeup about hybrid office hours, so here's a quick rundown of how 61C and 161 held dual in-person and remote office hours in Fall 2021.

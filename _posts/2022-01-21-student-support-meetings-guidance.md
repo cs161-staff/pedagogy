@@ -4,6 +4,7 @@ tags: [student support]
 description: Student Support Meetings Guidance
 author:
     name: Vron Vance
+redirect_from: /student-support-meetings-guidance/
 ---
 
 ## Beforehand

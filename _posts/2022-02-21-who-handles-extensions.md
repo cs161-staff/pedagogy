@@ -4,6 +4,7 @@ tags: [student support]
 description: A guide to decide who should process course extensions
 author:
     name: Vron Vance
+redirect_from: /who-handles-extensions/
 ---
 
 ## Why, How

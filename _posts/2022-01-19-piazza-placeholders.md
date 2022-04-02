@@ -4,6 +4,7 @@ tags: [piazza]
 description: How to order pinned posts on Piazza
 author:
     name: Peyrin Kao
+redirect_from: /piazza-placeholders/
 ---
 
 Piazza doesn't have the ability to reorder pinned posts. Instead, it automatically orders pinned posts by post date, which means that the most recent post shows up on top, and the oldest post shows up at the bottom.

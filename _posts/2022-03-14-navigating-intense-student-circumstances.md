@@ -4,6 +4,7 @@ tags: [student support]
 description: Supporting in-person and remote students simultaneously
 author:
     name: Vron Vance
+redirect_from: /navigating-intense-student-circumstances/
 ---
 
 *CW: discussion of suicide, death, illness, and extenuating circumstances*

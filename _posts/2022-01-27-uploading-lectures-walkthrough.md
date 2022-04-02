@@ -4,6 +4,7 @@ tags: [content]
 description: Picture guide for uploading recorded lectures
 author:
     name: Peyrin Kao
+redirect_from: /uploading-lectures-walkthrough/
 ---
 
 Here's a picture guide I made for instructors to upload their lecture recordings to Youtube and/or Kaltura (Berkeley's internal video distribution system). Disclaimer: Some of this will probably be more Berkeley-specific.

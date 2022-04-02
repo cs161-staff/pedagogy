@@ -4,6 +4,7 @@ tags: [content]
 description: Why we made our own reference card
 author:
     name: Peyrin Kao
+redirect_from: /making-reference-sheets-i/
 ---
 
 CS 61C has used the [RISC-V reference card ("green card")](https://inst.eecs.berkeley.edu/%7Ecs61c/resources/riscvcard.pdf) from Patterson and Hennessy's RISC-V textbook ever since we switched from MIPS to RISC-V assembly in 2017. This semester, we've decided to make our own reference card from scratch to replace the existing green card. This should be the first in a series of posts documenting best practices we've learned from the process of building a reference card. It's still a work in progress, so feedback is welcome!

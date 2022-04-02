@@ -4,6 +4,7 @@ tags: [hiring]
 description: Short guide to how staff are hired
 author:
     name: Peyrin Kao
+redirect_from: /course-staff-hiring-appointments/
 ---
 
 I've seen this question pop up a few times before, so here's a short guide to what types of hiring appointments the department gives out to tutors, readers, and TAs. There are some holes in this, and it's mostly based off my own experiences, so maybe we can crowdsource some information and revisit this sometime in the future.

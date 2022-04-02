@@ -4,6 +4,7 @@ tags: [student support]
 description: Why we need soft deadlines
 author:
     name: Peyrin Kao
+redirect_from: /soft-deadlines/
 ---
 
 This is the first in a planned series of posts about ways to reduce deadline-related stress without sacrificing student learning. It's something we've been actively working on for several semesters 

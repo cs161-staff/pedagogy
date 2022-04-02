@@ -4,6 +4,7 @@ tags: [student support]
 description: Transcribed slides for instructors
 author:
     name: Vron Vance
+redirect_from: /instructor-student-support-intro/
 ---
 
 > This is a text transcript of a [slideshow](https://docs.google.com/presentation/d/1NNswKFPFS0M0_NT3xpdmBy1pVtSVpkalW3A1n4W0Bpg) used to introduce instructors to student support and the Disabled Students' Program (DSP) at Berkeley. Transcribed/lightly edited for readability by Peyrin.

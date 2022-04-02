@@ -6,6 +6,7 @@ tags: [office hours]
 description: What to do when queues get long, and how to avoid long queues
 author:
     name: Peyrin Kao
+redirect_from: /notes-on-office-hour-queues/
 ---
 
 ## Triaging long queues

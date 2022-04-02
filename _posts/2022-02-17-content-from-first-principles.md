@@ -4,6 +4,7 @@ tags: [content]
 description: Avoiding assuming prior knowledge when building course material
 author:
     name: Peyrin Kao
+redirect_from: /content-from-first-principles/
 ---
 
 I presented CS 161's [Introduction to Cryptography](https://docs.google.com/presentation/d/1hVdnNDI7Pq_5tvTwM6uCzQ80lVtnpCEwWQZwS9Xl1jc) lecture as part of a teaching demo today, and there was a conversation about how this particular lecture and its corresponding [textbook chapter](https://textbook.cs161.org/crypto/intro.html) was explicitly designed to be an introduction that doesn't assume prior knowledge.

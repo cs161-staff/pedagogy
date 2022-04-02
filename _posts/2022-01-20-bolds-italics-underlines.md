@@ -4,6 +4,7 @@ tags: [content]
 description: Using emphasis judiciously in course materials
 author:
     name: Peyrin Kao
+redirect_from: /bolds-italics-underlines/
 ---
 
 When making course materials, we often want to emphasize particular points in writing. There are a lot of ways to do this: **bolds**, *italics*, <u>underlines</u>, or ***some combination of the above***.

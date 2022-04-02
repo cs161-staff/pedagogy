@@ -4,6 +4,7 @@ tags: [cross course collaboration]
 description: Collaboration efforts between two classes
 author:
     name: Peyrin Kao
+redirect_from: /cross-course-collaboration-post-mortem/
 ---
 
 Official and unofficial collaboration between CS 161 and CS 61C produced some nice mutually beneficial effects for students and staff of both classes - hopefully other classes can use this as a model to facilitate more cross-course collaboration.

@@ -6,6 +6,7 @@ tags: [general, culture]
 description: Tips, tricks, and best practices for creating an inclusive, welcoming course environment!
 author:
     name: Shomil Jain
+redirect_from: /creating-an-inclusive-course/
 ---
 
 > This post contains tips on how to create an inclusive course environment. Much of this perspective on pedagogy has been sourced from conversations with some of CS 161's veteran TAs - Peyrin Kao, Vron Vance, Nicholas Ngai, Fuzail Shakir, and others - as well as from the professors who've taught CS 161 over the past few semesters: Nicholas Weaver, David Wagner, and Raluca Ada Popa. 

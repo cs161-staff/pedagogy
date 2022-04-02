@@ -4,6 +4,7 @@ tags: [student support]
 description: Notes on Inclusivity and Mental Health
 author:
     name: Zephyr Barkan
+redirect_from: /notes-on-inclusivity-and-mental-health/
 ---
 
 > This post is a transcript of a presentation on inclusivity and mental health for student instructors in the upcoming summer semester. Transcribed/lightly edited for readability by Peyrin.

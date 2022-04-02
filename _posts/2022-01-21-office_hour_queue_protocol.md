@@ -6,6 +6,7 @@ tags: [office hours]
 description: Onboarding staff for office hours queue infrastructure and general starting guidelines
 author:
     name: Caroline Liu
+redirect_from: /office_hour_queue_protocol/
 ---
 
 ## Setting up office hour queues

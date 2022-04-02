@@ -4,6 +4,7 @@ tags: [dsp]
 description: A guide to DSP for students by students
 author:
     name: Zephyr Barkan
+redirect_from: /dsp-for-students/
 ---
 
 [“The Disabled Students’ Program (DSP) equips disabled students with appropriate accommodations and services to achieve their individual academic goals”](https://dsp.berkeley.edu/) with [“respect, privacy, and confidentiality”](https://docs.google.com/document/d/1tUWWXXlWCA7UcXVqC7YAhJvQt7MuFYvBqIABaG34Rxk/edit#)
