@@ -4,7 +4,6 @@ created: 2021-01-14T20:13:18.54
 modified: 2021-01-14T01:37:28.20
 tags: [general, culture]
 description: Tips, tricks, and best practices for creating an inclusive, welcoming course environment!
-image: /assets/img/creating-an-inclusive-course.png
 author:
     name: Shomil Jain
 ---
