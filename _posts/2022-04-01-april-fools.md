@@ -114,7 +114,7 @@ fun---the little moments matter, too!
 - Courses:
   - CS 10: Madeleine LaBute
   - EECS 16A: [I genuinely have no idea who helped make this happen.]
-  - EECS 16B: Maxwell Chen, Risheek Pingili
+  - EECS 16B: Maxwell Chen, Risheek Pingili, Mingyang Wang, Stella Zeng
   - CS 61A: [Vanshaj Singhania](https://vanshaj.dev/)
   - CS 61B: Ethan Ordentlich
   - CS 61C: Caroline Liu
@@ -126,8 +126,9 @@ fun---the little moments matter, too!
   - CS 161: [Nicholas Ngai](https://ngai.me/)
   - CS 162: Edward Zeng, Sean Kim
   - CS 164: Anjali Thakrar
+  - CS 170: Rahul Arya
   - CS 188: Saagar Sanghavi
-  - CS 189: Ishaan Srivastava
+  - CS 189: Sean Lin, Sean O'Brien, Ishaan Srivastava
 - 61A Software: [Vanshaj Singhania](https://vanshaj.dev/)
 - Artists: Seung-Jin Yang, Ashley Zhang
 
