@@ -47,11 +47,7 @@ class Introduction {
 }
 
 enum Sex {
-    MALE;
-    FEMALE;
-    TWO_SPIRIT;
-    AGENDER;
-    NONBINARY;
+    // biologically-classified sexes to be listed here
 }
 
 class Person {
