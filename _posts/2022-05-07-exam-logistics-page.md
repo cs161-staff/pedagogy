@@ -1,9 +1,10 @@
 ---
-title: "Our Exam Logistics Page"
+title: Our Exam Logistics Page
 tags: [exams]
 description: A snapshot of our student-facing exam logistics
 author:
-    name: [Shomil Jain](https://shomil.me/)
+  name: Shomil Jain
+  url: https://shomil.me/
 ---
 
 > This post contains a snapshot of our student-facing exam logistics for the Spring 2022 Final! Feel free to adapt these logistics to your class's exam procedure, and see our other exam-related posts for recommendations and guidelines on how to offer hybrid exams.
