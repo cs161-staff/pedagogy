@@ -75,4 +75,4 @@ Here are the links to UC Berkeley's academic advising: [College of L&S](https://
 
 Finishing an incomplete can seem daunting, but we want to help you get through it as smoothly as possible! Hopefully this post gives you a good starting point for approaching your incomplete.
 
-Coming soon: An incompletes guide for TAs.
+See also: [An incompletes guide for TAs.](/2022/06/10/incomplete-guide-for-students/)
