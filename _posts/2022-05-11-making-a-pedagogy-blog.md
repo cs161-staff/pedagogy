@@ -1,5 +1,5 @@
 ---
-title: Making a pedagogy blog
+title: Making a Pedagogy Blog
 tags: [knowledge transfer]
 description: Why'd we make this website?
 author:
