@@ -28,4 +28,5 @@ F(Access to Basic Needs<br>Family Emergencies<br>and many more ....);
 C -->|Life Circumstances| F;
 F --> G;
 I(<a href='https://csi.berkeley.edu/campus-community-resources/'>Resources from CSI</a>);
+
 </div>
