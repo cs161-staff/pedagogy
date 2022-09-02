@@ -37,7 +37,7 @@ if X is perceived in this way?" (Though it is not to say that the amount of
 thought that should be put be zero.)
 
 That said, small moments of stress add up. No matter how quickly a student
-realizes that there's a midterm or how little they may care about their grade
+realizes that there is no midterm or how little they may care about their grade
 in the course, it's going to be at least a moment or two of panic for most
 people. And even if we don't pretend to be allergic to stress, it's still the
 duty of staff to minimize _unnecessary_ stress. And to be clear: **April Fools'
@@ -84,7 +84,7 @@ We each undertook a subset of four possible changes:
 - Add a course logo (or modify an existing one) that was somehow related to
   dogs
 
-Some courses even when through the trouble of renaming every single lecture and
+Some courses even went through the trouble of renaming every single lecture and
 assigned reading temporarily (shoutout to CS 152/252A!), which was above and
 beyond what we expected!
 
