@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Content from First Principles
 tags: [content]
 description: Avoiding assuming prior knowledge when building course material

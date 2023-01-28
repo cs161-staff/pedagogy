@@ -1,4 +1,5 @@
 ---
+layout: post
 title: An Incompletes Guide for TAs
 tags: [student support, incompletes]
 description: Best practices for TAs managing incompletes

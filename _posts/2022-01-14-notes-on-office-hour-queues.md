@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Notes on Office Hour Queues
 created: 2021-01-14T20:13:18.54
 modified: 2021-01-14T01:37:28.20

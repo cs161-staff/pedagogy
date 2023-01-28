@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Thoughts on Hiring Role-Specific TAs
 tags: [hiring]
 description: Finding new staff members to take on more specialized roles

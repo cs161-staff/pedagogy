@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Course Staff Hiring Appointments
 tags: [hiring]
 description: Short guide to how staff are hired

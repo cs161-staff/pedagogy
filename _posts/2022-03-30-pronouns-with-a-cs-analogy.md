@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Normalize Pronouns"
 tags: [classroom climate, pronouns, cs]
 description: Explaining pronouns with a CS analogy

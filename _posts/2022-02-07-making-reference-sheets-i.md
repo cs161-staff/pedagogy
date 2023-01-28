@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Making Reference Sheets I"
 tags: [content]
 description: Why we made our own reference card

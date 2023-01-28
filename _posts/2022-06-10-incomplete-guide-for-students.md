@@ -1,4 +1,5 @@
 ---
+layout: post
 title: An Incompletes Guide for Students
 tags: [student support, incompletes]
 description: Tips for students, collected from TAs managing incompletes

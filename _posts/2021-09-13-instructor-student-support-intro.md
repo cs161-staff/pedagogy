@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Instructor Introduction to Student Support"
 tags: [student support]
 description: Transcribed slides for instructors

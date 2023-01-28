@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Notes on Inclusivity and Mental Health"
 tags: [student support]
 description: Notes on Inclusivity and Mental Health

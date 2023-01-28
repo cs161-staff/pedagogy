@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Doggos for April Fools'
 tags: [culture]
 description: A fun joke to vent some stress for students and staff alike.

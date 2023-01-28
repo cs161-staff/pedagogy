@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Onboarding Concurrent Enrollment Students
 tags: [start of semester]
 description: 

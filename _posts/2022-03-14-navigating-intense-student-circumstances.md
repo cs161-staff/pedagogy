@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Navigating Intense Student Circumstances
 tags: [student support]
 description: Supporting in-person and remote students simultaneously

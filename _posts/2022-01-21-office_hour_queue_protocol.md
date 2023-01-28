@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Office Hour Queue Protocol
 created: 2021-01-21T23:08:00.00
 modified: 2021-01-21T23:08:00.00

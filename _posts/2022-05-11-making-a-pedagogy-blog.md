@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Making a Pedagogy Blog
 tags: [knowledge transfer]
 description: Why'd we make this website?

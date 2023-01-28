@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Uploading Lectures: Walkthrough"
 tags: [content]
 description: Picture guide for uploading recorded lectures

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Cross-Course Collaboration Post-Mortem
 tags: [cross course collaboration]
 description: Collaboration efforts between two classes

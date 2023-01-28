@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bolds, Italics, and Underlines"
 tags: [content]
 description: Using emphasis judiciously in course materials

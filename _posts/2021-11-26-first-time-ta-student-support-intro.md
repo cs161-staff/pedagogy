@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "First-Time TA Introduction to Student Support"
 tags: [student support]
 description: Transcribed slides for first-time TAs

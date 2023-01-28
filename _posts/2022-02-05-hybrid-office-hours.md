@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Hybrid Office Hours"
 tags: [content]
 description: Supporting in-person and remote students simultaneously

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Setting up 61A's OH Queue
 tags: [start of semester]
 description: 

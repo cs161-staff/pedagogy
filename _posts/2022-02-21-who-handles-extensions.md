@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Who Handles Extensions"
 tags: [student support]
 description: A guide to decide who should process course extensions

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Piazza Placeholders"
 tags: [piazza]
 description: How to order pinned posts on Piazza

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Structuring the First Lecture"
 tags: [content]
 description: Presenting course logistics in an organized way

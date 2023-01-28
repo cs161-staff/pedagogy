@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Students Who Frequent Office Hours
 tags: [office hours]
 description: A small fraction of students use the most office hours resources. Why is that, and what can we do about it?

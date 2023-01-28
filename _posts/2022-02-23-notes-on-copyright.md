@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "A Guide to Navigating Take-downs"
 tags: [copyright, dmca, git, chegg, coursehero]
 description: How to have your solutions removed from the internet

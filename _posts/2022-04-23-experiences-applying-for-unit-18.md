@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Experiences Applying for a Unit 18 Lecturer Position
 tags: [hiring]
 description: Applying for a CS faculty job without a PhD

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Our Exam Logistics Page
 tags: [exams]
 description: A snapshot of our student-facing exam logistics

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Creating an Inclusive Course Environment
 created: 2021-01-14T20:13:18.54
 modified: 2021-01-14T01:37:28.20

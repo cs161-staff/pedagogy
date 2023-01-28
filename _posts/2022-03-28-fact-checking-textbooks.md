@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Thoughts on Fact Checking Textbooks
 tags: [content]
 description: Thoughts on ways to vet course resources written in-house

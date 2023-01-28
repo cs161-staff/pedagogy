@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Exam Writing I"
 tags: [exams]
 description: Thought process behind writing an exam question

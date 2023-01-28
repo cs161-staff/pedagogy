@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Navigating DSP at Berkeley"
 tags: [dsp]
 description: A guide to DSP for students by students

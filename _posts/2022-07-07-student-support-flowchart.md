@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Student Support Flowchart
 tags: [student support]
 description: Student Support Flowchart

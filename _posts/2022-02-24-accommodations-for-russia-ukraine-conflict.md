@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Accommodations for Russia-Ukraine Conflict"
 tags: [student support]
 description: Piazza post affirming student support in times of crisis
