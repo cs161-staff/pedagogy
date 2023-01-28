@@ -40,14 +40,6 @@ highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
 
-# Default front matter
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: post
-      comments: false
-
 # Homepage limit posts
 number_of_posts: 100
 
@@ -56,6 +48,7 @@ remote_theme: cs161-staff/jekyll-klise@v1.2.1
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
